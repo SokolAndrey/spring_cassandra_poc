@@ -1,0 +1,8 @@
+cassandra.table.images: images
+spring:
+  data:
+    cassandra:
+      keyspace-name: macys
+banner:
+  image:
+    location: src/main/resources/jessus.png
